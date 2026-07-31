@@ -3,16 +3,17 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
   int k,r;cin>>k>>r;
+  int count = 1;
   for (int i = 1; i <= 10; i++)
   {
-    int totalcost = i*k;
-    if (totalcost%10==0 || totalcost%10==r)
+    if (((i*k)%10)==0 || ((i*k)%10)==r)
     {
-      cout<<i<<endl;
-      break;;
+      break;
     }
-    
+    count++;
   }
+
+  cout<<count<<endl;
   
   return 0;
 }

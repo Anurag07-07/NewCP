@@ -1,0 +1,1 @@
+{"name":"Local: MagicNumbers","url":"d:\\CP\\800\\MagicNumbers.cpp","tests":[{"id":1785442707820,"input":"114114","output":"YES"},{"id":1785442722355,"input":"1111","output":"YES"},{"id":1785442730845,"input":"441231","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\800\\MagicNumbers.cpp","group":"local","local":true}
