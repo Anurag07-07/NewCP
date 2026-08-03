@@ -1,0 +1,1 @@
+{"name":"Local: ABBB","url":"d:\\CP\\800\\ABBB.cpp","tests":[{"id":1785616802018,"input":"3\nAAA\nBABA\nAABBBABBBB","output":"3\n2\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\800\\ABBB.cpp","group":"local","local":true}

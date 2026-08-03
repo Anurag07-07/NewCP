@@ -1,0 +1,1 @@
+{"name":"Local: IncreasingArray","url":"d:\\CP\\800\\IncreasingArray.cpp","tests":[{"id":1785697431903,"input":"10\n1000000000 1 1 1 1 1 1 1 1 1","output":"8999999991"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\800\\IncreasingArray.cpp","group":"local","local":true}
