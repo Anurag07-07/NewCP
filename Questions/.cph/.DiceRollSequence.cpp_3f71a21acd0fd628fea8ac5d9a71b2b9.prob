@@ -1,0 +1,1 @@
+{"name":"Local: DiceRollSequence","url":"d:\\CP\\Questions\\DiceRollSequence.cpp","tests":[{"id":1786014575621,"input":"3\n3\n1 4 2\n4\n3 4 6 3\n10\n6 1 4 3 1 3 2 5 4 4\n","output":"0\n1\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\Questions\\DiceRollSequence.cpp","group":"local","local":true}
